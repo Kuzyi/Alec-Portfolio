@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Alec-Portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/Alec-Portfolio/static/js/main.eeec6b75.js",
+    "static/js/787.d6cb1aba.chunk.js": "/Alec-Portfolio/static/js/787.d6cb1aba.chunk.js",
+    "static/media/logo.svg": "/Alec-Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Alec-Portfolio/index.html",
+    "main.073c9b0a.css.map": "/Alec-Portfolio/static/css/main.073c9b0a.css.map",
+    "main.eeec6b75.js.map": "/Alec-Portfolio/static/js/main.eeec6b75.js.map",
+    "787.d6cb1aba.chunk.js.map": "/Alec-Portfolio/static/js/787.d6cb1aba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.eeec6b75.js"
+  ]
+}
